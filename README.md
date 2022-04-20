@@ -6,7 +6,7 @@ Roll no:
 NA21B005
 
 Previous Experience:
-Worked on WebScraping Projects
+Worked on WebScraping Projects,
 Got 3-Star(Rating = 1602) in Codechef
 
 
@@ -20,21 +20,21 @@ Autonomous Vehicle Technology is something which has always fascinated me, And t
 Relevant Courses:
 Sadly only these Courses (╥_╥), None of them are related to the Work Abhiyaan Team do (╥_╥)
 MA1101
-0
+0,
 MA1102
-0
+0,
 AM1100
-0
+0,
 GN1102
-0
+0,
 ID1200
-0
+0,
 OE1101
-0
+0,
 PH1010
-0
+0,
 PH1020
-0
+0,
 PH1030
 0
 
